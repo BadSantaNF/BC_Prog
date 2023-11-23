@@ -1,0 +1,15 @@
+C:\Users\BaDSaNta\worck001\BC_Prog\new3\obj\Debug\net6.0\new3.csproj.AssemblyReference.cache
+C:\Users\BaDSaNta\worck001\BC_Prog\new3\obj\Debug\net6.0\new3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BaDSaNta\worck001\BC_Prog\new3\obj\Debug\net6.0\new3.AssemblyInfoInputs.cache
+C:\Users\BaDSaNta\worck001\BC_Prog\new3\obj\Debug\net6.0\new3.AssemblyInfo.cs
+C:\Users\BaDSaNta\worck001\BC_Prog\new3\obj\Debug\net6.0\new3.csproj.CoreCompileInputs.cache
+C:\Users\BaDSaNta\worck001\BC_Prog\new3\bin\Debug\net6.0\new3.exe
+C:\Users\BaDSaNta\worck001\BC_Prog\new3\bin\Debug\net6.0\new3.deps.json
+C:\Users\BaDSaNta\worck001\BC_Prog\new3\bin\Debug\net6.0\new3.runtimeconfig.json
+C:\Users\BaDSaNta\worck001\BC_Prog\new3\bin\Debug\net6.0\new3.dll
+C:\Users\BaDSaNta\worck001\BC_Prog\new3\bin\Debug\net6.0\new3.pdb
+C:\Users\BaDSaNta\worck001\BC_Prog\new3\obj\Debug\net6.0\new3.dll
+C:\Users\BaDSaNta\worck001\BC_Prog\new3\obj\Debug\net6.0\refint\new3.dll
+C:\Users\BaDSaNta\worck001\BC_Prog\new3\obj\Debug\net6.0\new3.pdb
+C:\Users\BaDSaNta\worck001\BC_Prog\new3\obj\Debug\net6.0\new3.genruntimeconfig.cache
+C:\Users\BaDSaNta\worck001\BC_Prog\new3\obj\Debug\net6.0\ref\new3.dll
