@@ -104,65 +104,152 @@
 
 
 
-public class Answer
-{
-    static void CompareNumbers(int firstNumber, int secondNumber)
-    {   
+// public class Answer
+// {
+//     static void CompareNumbers(int firstNumber, int secondNumber)
+//     {   
 
-        if (firstNumber > secondNumber)
-        {
-            int arg1 = firstNumber;
-            int arg2 = secondNumber;
-            System.Console.Write(" первое число  ");
-            System.Console.Write(arg1);
-            System.Console.Write(" больше второго ");
-            System.Console.Write(arg2);
-            
-        }
-         if (secondNumber > firstNumber)
-        {
-            int arg2 = secondNumber;
-            int arg1 = firstNumber;
-            System.Console.Write("  второе число  ");
-            System.Console.Write(arg2);
-            System.Console.Write(" больше первого ");
-            System.Console.Write(arg1);
+//         if (firstNumber > secondNumber)
+//         {
+//             int arg1 = firstNumber;
+//             int arg2 = secondNumber;
+//             System.Console.Write(" первое число  ");
+//             System.Console.Write(arg1);
+//             System.Console.Write(" больше второго ");
+//             System.Console.Write(arg2);
 
-        }
-        if (firstNumber==secondNumber)
+//         }
+//          if (secondNumber > firstNumber)
+//         {
+//             int arg2 = secondNumber;
+//             int arg1 = firstNumber;
+//             System.Console.Write("  второе число  ");
+//             System.Console.Write(arg2);
+//             System.Console.Write(" больше первого ");
+//             System.Console.Write(arg1);
 
-        {
-            int arg2 = secondNumber;
-            int arg1 = firstNumber;
-            System.Console.Write("Введенные числа ");
-            System.Console.Write(arg2);
-            System.Console.Write("  и  ");
-             System.Console.Write(arg1);
-            Console.WriteLine( " равны ");
-            
-        }
-    
-    }
-    // Не удаляйте и не меняйте метод Main! 
-    static public void Main(string[] args)
-    {
-        int firstNumber, secondNumber;
+//         }
+//         if (firstNumber==secondNumber)
 
-        if (args.Length >= 2)
+//         {
+//             int arg2 = secondNumber;
+//             int arg1 = firstNumber;
+//             System.Console.Write("Введенные числа ");
+//             System.Console.Write(arg2);
+//             System.Console.Write("  и  ");
+//              System.Console.Write(arg1);
+//             Console.WriteLine( " равны ");
+
+//         }
+
+//     }
+//     // Не удаляйте и не меняйте метод Main! 
+//     static public void Main(string[] args)
+//     {
+//         int firstNumber, secondNumber;
+
+//         if (args.Length >= 2)
+//         {
+//             firstNumber = int.Parse(args[0]);
+//             secondNumber = int.Parse(args[1]);
+//         }
+//         else
+//         {
+//             // Здесь вы можете поменять значения для отправки кода на Выполнение
+//             firstNumber = 3;
+//             secondNumber = 3;
+//         }
+
+//         // Не удаляйте строки ниже
+//         CompareNumbers(firstNumber, secondNumber);
+//     }
+// }
+
+// using System;
+
+// public class Answer
+// {
+
+//     static int FindMax(int a, int b, int c)
+//     {
+//         int max = a;
+
+//         if (b > max)
+//         {
+//             max = b;
+//         }
+//         if (c > max)
+//         {
+//             max = c;
+
+//         }
+//         return max;
+
+
+
+//     }
+
+
+//     // Не удаляйте и не меняйте метод Main! 
+//     static public void Main(string[] args)
+//     {
+//         int a, b, c;
+
+//         if (args.Length >= 3)
+//         {
+//             a = int.Parse(args[0]);
+//             b = int.Parse(args[1]);
+//             c = int.Parse(args[2]);
+//         }
+//         else
+//         {
+//             // Здесь вы можете поменять значения для отправки кода на Выполнение
+//             a = 5;
+//             b = 25;
+//             c = 7;
+//         }
+
+//         // Не удаляйте строки ниже
+//         int result = FindMax(a, b, c);
+//         System.Console.WriteLine($"{result}");
+//     }
+
+// }
+
+// using System;
+
+class Answer {
+    static void CheckIfEven(int number)
+    { 
+      // Проверка четности или нечетности числа
+        if (number % 2 == 0)
         {
-            firstNumber = int.Parse(args[0]);
-            secondNumber = int.Parse(args[1]);
+            Console.WriteLine("Число четное.");
+            System.Console.WriteLine(number);
         }
         else
         {
-            // Здесь вы можете поменять значения для отправки кода на Выполнение
-            firstNumber = 3;
-            secondNumber = 3;
+            Console.WriteLine("Число нечетное.");
+        }
+        
+      
+      
+
+    }
+  
+
+  // Не удаляйте и не меняйте метод Main! 
+    static public void Main(string[] args) {
+        int number;
+
+        if (args.Length >= 1) {
+            number = int.Parse(args[0]);
+        } else {
+           // Здесь вы можете поменять значения для отправки кода на Выполнение
+            number = 3;
         }
 
         // Не удаляйте строки ниже
-        CompareNumbers(firstNumber, secondNumber);
+        CheckIfEven(number);
     }
 }
-
-
