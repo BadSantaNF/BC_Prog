@@ -1,0 +1,15 @@
+C:\Users\BaDSaNta\worck001\BC_Prog\example009_test\obj\Debug\net6.0\example009_test.csproj.AssemblyReference.cache
+C:\Users\BaDSaNta\worck001\BC_Prog\example009_test\obj\Debug\net6.0\example009_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BaDSaNta\worck001\BC_Prog\example009_test\obj\Debug\net6.0\example009_test.AssemblyInfoInputs.cache
+C:\Users\BaDSaNta\worck001\BC_Prog\example009_test\obj\Debug\net6.0\example009_test.AssemblyInfo.cs
+C:\Users\BaDSaNta\worck001\BC_Prog\example009_test\obj\Debug\net6.0\example009_test.csproj.CoreCompileInputs.cache
+C:\Users\BaDSaNta\worck001\BC_Prog\example009_test\bin\Debug\net6.0\example009_test.exe
+C:\Users\BaDSaNta\worck001\BC_Prog\example009_test\bin\Debug\net6.0\example009_test.deps.json
+C:\Users\BaDSaNta\worck001\BC_Prog\example009_test\bin\Debug\net6.0\example009_test.runtimeconfig.json
+C:\Users\BaDSaNta\worck001\BC_Prog\example009_test\bin\Debug\net6.0\example009_test.dll
+C:\Users\BaDSaNta\worck001\BC_Prog\example009_test\bin\Debug\net6.0\example009_test.pdb
+C:\Users\BaDSaNta\worck001\BC_Prog\example009_test\obj\Debug\net6.0\example009_test.dll
+C:\Users\BaDSaNta\worck001\BC_Prog\example009_test\obj\Debug\net6.0\refint\example009_test.dll
+C:\Users\BaDSaNta\worck001\BC_Prog\example009_test\obj\Debug\net6.0\example009_test.pdb
+C:\Users\BaDSaNta\worck001\BC_Prog\example009_test\obj\Debug\net6.0\example009_test.genruntimeconfig.cache
+C:\Users\BaDSaNta\worck001\BC_Prog\example009_test\obj\Debug\net6.0\ref\example009_test.dll
